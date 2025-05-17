@@ -4,6 +4,9 @@ I'm excited about the intersection of IT and Electrical Engineering, and I'm alw
 
 #ITProfessional #TechEnthusiast
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b3a23f20-a381-47e0-89fc-49b39276270c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 <!--
 **eacombs97/eacombs97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
