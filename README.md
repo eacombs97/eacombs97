@@ -2,7 +2,7 @@ Dedicated IT  and software professional with a strong foundation in IT programmi
 
 I'm excited about the intersection of IT and Electrical Engineering, and I'm always eager to explore new opportunities and challenges. Let's connect and explore potential collaborations!
 
-#ITProfessional #TechEnthusiast
+#ITProfessional #TechEnthusiast #DevOps #InnovationLeadsToInspiration
 
 <!--
 **eacombs97/eacombs97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
